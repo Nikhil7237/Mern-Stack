@@ -3,7 +3,7 @@
 
 > **Project:** MERN Stack Application
 
-## सारांश (Short Summary)
+##(Summary)
 
 Yeh repository ek full-stack MERN (MongoDB, Express, React, Node.js) application ka template hai — authentication, CRUD, RESTful APIs, aur basic deployment setup ke saath. Is README mein setup, run, aur deployment steps diye gaye hain.
 
