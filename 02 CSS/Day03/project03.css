@@ -1,0 +1,33 @@
+.{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+#container{
+    background-color:#cf0722;
+    height: 315px;
+    width: 473px;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+#box1{
+    background-color: #002368;
+    height: 159px;
+    width: 473px;
+    position: absolute;
+    top: 78.5px;
+}
+#box2{
+    background-color: #ffffff;
+    height: 134px;
+    width: 134px;
+    position: absolute;
+    top: 12.5px;
+    left: 170px;
+    border-radius: 50%;
+
+}
+
